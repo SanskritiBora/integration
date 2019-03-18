@@ -1,0 +1,8 @@
+package com.Spring.starter;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class RController {
+
+	
+}
